@@ -200,7 +200,7 @@ param_name TEXT, param_value TEXT)')
             anchors.left: parent.left
 
             anchors.right: parent.right
-            source: "qrc:/qtquickplugin/images/template_image.png"
+            source: ""
             anchors.leftMargin: 0
             anchors.rightMargin: 87
             fillMode: Image.PreserveAspectFit
@@ -356,7 +356,7 @@ param_name TEXT, param_value TEXT)')
             width: 38
             height: 34
             anchors.left: parent.left
-            source: "qrc:/qtquickplugin/images/template_image.png"
+            source: ""
             anchors.leftMargin: 0
             z: 1
             scale: 1
